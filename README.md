@@ -4,7 +4,7 @@ Developed a dynamic Tableau dashboard using the AdventureWorks dataset to track 
 <img width="798" alt="Image" src="https://github.com/user-attachments/assets/6a73d11f-983d-42e6-8cbe-0f41197fea3d" />
 
 •	Connected Tableau to a SQL database, wrote queries to extract, join, and clean tables related to sales, geography, and products.
-•	Designed a multi-page dashboard and applied calculated firelds to create parameters for Sales,Profit and Cost.
+•	Designed a multi-page dashboard and applied calculated fields to create parameters for Sales,Profit and Cost.
 
 
 
