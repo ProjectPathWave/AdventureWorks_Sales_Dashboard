@@ -1,0 +1,159 @@
+ProductKey,Unit price,ProductSubcategoryKey,Color,SafetyStockLevel,ReorderPoint,ModelName
+214,34.99,31,Red,4,3,Sport-100
+217,34.99,31,Black,4,3,Sport-100
+222,34.99,31,Blue,4,3,Sport-100
+225,8.99,19,Multi,4,3,Cycling Cap
+228,49.99,21,Multi,4,3,Long-Sleeve Logo Jersey
+231,49.99,21,Multi,4,3,Long-Sleeve Logo Jersey
+234,49.99,21,Multi,4,3,Long-Sleeve Logo Jersey
+237,49.99,21,Multi,4,3,Long-Sleeve Logo Jersey
+310,3578.27,2,Red,100,75,Road-150
+311,3578.27,2,Red,100,75,Road-150
+312,3578.27,2,Red,100,75,Road-150
+313,3578.27,2,Red,100,75,Road-150
+314,3578.27,2,Red,100,75,Road-150
+320,699.0982,2,Red,100,75,Road-650
+321,782.99,2,Red,100,75,Road-650
+322,699.0982,2,Red,100,75,Road-650
+323,782.99,2,Red,100,75,Road-650
+324,699.0982,2,Red,100,75,Road-650
+325,782.99,2,Red,100,75,Road-650
+326,699.0982,2,Red,100,75,Road-650
+327,782.99,2,Red,100,75,Road-650
+328,699.0982,2,Red,100,75,Road-650
+329,782.99,2,Red,100,75,Road-650
+330,699.0982,2,Red,100,75,Road-650
+331,782.99,2,Red,100,75,Road-650
+332,699.0982,2,Black,100,75,Road-650
+333,782.99,2,Black,100,75,Road-650
+334,699.0982,2,Black,100,75,Road-650
+335,782.99,2,Black,100,75,Road-650
+336,699.0982,2,Black,100,75,Road-650
+337,782.99,2,Black,100,75,Road-650
+338,699.0982,2,Black,100,75,Road-650
+339,782.99,2,Black,100,75,Road-650
+340,699.0982,2,Black,100,75,Road-650
+341,782.99,2,Black,100,75,Road-650
+342,699.0982,2,Black,100,75,Road-650
+343,782.99,2,Black,100,75,Road-650
+344,3399.99,1,Silver,100,75,Mountain-100
+345,3399.99,1,Silver,100,75,Mountain-100
+346,3399.99,1,Silver,100,75,Mountain-100
+347,3399.99,1,Silver,100,75,Mountain-100
+348,3374.99,1,Black,100,75,Mountain-100
+349,3374.99,1,Black,100,75,Mountain-100
+350,3374.99,1,Black,100,75,Mountain-100
+351,3374.99,1,Black,100,75,Mountain-100
+352,2071.4196,1,Silver,100,75,Mountain-200
+353,2319.99,1,Silver,100,75,Mountain-200
+354,2071.4196,1,Silver,100,75,Mountain-200
+355,2319.99,1,Silver,100,75,Mountain-200
+356,2071.4196,1,Silver,100,75,Mountain-200
+357,2319.99,1,Silver,100,75,Mountain-200
+358,2049.0982,1,Black,100,75,Mountain-200
+359,2294.99,1,Black,100,75,Mountain-200
+360,2049.0982,1,Black,100,75,Mountain-200
+361,2294.99,1,Black,100,75,Mountain-200
+362,2049.0982,1,Black,100,75,Mountain-200
+363,2294.99,1,Black,100,75,Mountain-200
+368,2443.35,2,Red,100,75,Road-250
+369,2443.35,2,Red,100,75,Road-250
+370,2443.35,2,Red,100,75,Road-250
+371,2181.5625,2,Red,100,75,Road-250
+372,2443.35,2,Red,100,75,Road-250
+373,2181.5625,2,Black,100,75,Road-250
+374,2443.35,2,Black,100,75,Road-250
+375,2181.5625,2,Black,100,75,Road-250
+376,2443.35,2,Black,100,75,Road-250
+377,2181.5625,2,Black,100,75,Road-250
+378,2443.35,2,Black,100,75,Road-250
+379,2181.5625,2,Black,100,75,Road-250
+380,2443.35,2,Black,100,75,Road-250
+381,1000.4375,2,Yellow,100,75,Road-550-W
+382,1120.49,2,Yellow,100,75,Road-550-W
+383,1000.4375,2,Yellow,100,75,Road-550-W
+384,1120.49,2,Yellow,100,75,Road-550-W
+385,1000.4375,2,Yellow,100,75,Road-550-W
+386,1120.49,2,Yellow,100,75,Road-550-W
+387,1000.4375,2,Yellow,100,75,Road-550-W
+388,1120.49,2,Yellow,100,75,Road-550-W
+389,1000.4375,2,Yellow,100,75,Road-550-W
+390,1120.49,2,Yellow,100,75,Road-550-W
+463,24.49,20,Black,4,3,Half-Finger Gloves
+465,24.49,20,Black,4,3,Half-Finger Gloves
+467,24.49,20,Black,4,3,Half-Finger Gloves
+471,63.5,25,Blue,4,3,Classic Vest
+472,63.5,25,Blue,4,3,Classic Vest
+473,63.5,25,Blue,4,3,Classic Vest
+474,69.99,22,Black,4,3,Women's Mountain Shorts
+475,69.99,22,Black,4,3,Women's Mountain Shorts
+476,69.99,22,Black,4,3,Women's Mountain Shorts
+477,4.99,28,NA,4,3,Water Bottle
+478,9.99,28,NA,4,3,Mountain Bottle Cage
+479,8.99,28,NA,4,3,Road Bottle Cage
+480,2.29,37,NA,4,3,Patch kit
+481,8.99,23,White,4,3,Racing Socks
+482,8.99,23,White,4,3,Racing Socks
+483,120,26,NA,4,3,Hitch Rack - 4-Bike
+484,7.95,29,NA,4,3,Bike Wash
+485,21.98,30,NA,4,3,Fender Set - Mountain
+486,159,27,NA,4,3,All-Purpose Bike Stand
+487,54.99,32,Silver,4,3,Hydration Pack
+488,53.99,21,Yellow,4,3,Short-Sleeve Classic Jersey
+489,53.99,21,Yellow,4,3,Short-Sleeve Classic Jersey
+490,53.99,21,Yellow,4,3,Short-Sleeve Classic Jersey
+491,53.99,21,Yellow,4,3,Short-Sleeve Classic Jersey
+528,4.99,37,NA,500,375,Mountain Tire Tube
+529,3.99,37,NA,500,375,Road Tire Tube
+530,4.99,37,NA,500,375,Touring Tire Tube
+535,24.99,37,NA,500,375,LL Mountain Tire
+536,29.99,37,NA,500,375,ML Mountain Tire
+537,35,37,NA,500,375,HL Mountain Tire
+538,21.49,37,NA,500,375,LL Road Tire
+539,24.99,37,NA,500,375,ML Road Tire
+540,32.6,37,NA,500,375,HL Road Tire
+541,28.99,37,NA,500,375,Touring Tire
+560,1214.85,3,Blue,100,75,Touring-2000
+561,2384.07,3,Yellow,100,75,Touring-1000
+562,2384.07,3,Yellow,100,75,Touring-1000
+563,2384.07,3,Yellow,100,75,Touring-1000
+564,2384.07,3,Yellow,100,75,Touring-1000
+565,742.35,3,Blue,100,75,Touring-3000
+566,742.35,3,Blue,100,75,Touring-3000
+567,742.35,3,Blue,100,75,Touring-3000
+568,742.35,3,Yellow,100,75,Touring-3000
+569,742.35,3,Yellow,100,75,Touring-3000
+570,742.35,3,Yellow,100,75,Touring-3000
+571,742.35,3,Yellow,100,75,Touring-3000
+572,742.35,3,Yellow,100,75,Touring-3000
+573,2384.07,3,Blue,100,75,Touring-1000
+574,2384.07,3,Blue,100,75,Touring-1000
+575,2384.07,3,Blue,100,75,Touring-1000
+576,2384.07,3,Blue,100,75,Touring-1000
+577,1214.85,3,Blue,100,75,Touring-2000
+578,1214.85,3,Blue,100,75,Touring-2000
+579,1214.85,3,Blue,100,75,Touring-2000
+580,1700.99,2,Yellow,100,75,Road-350-W
+581,1700.99,2,Yellow,100,75,Road-350-W
+582,1700.99,2,Yellow,100,75,Road-350-W
+583,1700.99,2,Yellow,100,75,Road-350-W
+584,539.99,2,Black,100,75,Road-750
+585,742.35,3,Blue,100,75,Touring-3000
+586,742.35,3,Blue,100,75,Touring-3000
+587,769.49,1,Silver,100,75,Mountain-400-W
+588,769.49,1,Silver,100,75,Mountain-400-W
+589,769.49,1,Silver,100,75,Mountain-400-W
+590,769.49,1,Silver,100,75,Mountain-400-W
+591,564.99,1,Silver,100,75,Mountain-500
+592,564.99,1,Silver,100,75,Mountain-500
+593,564.99,1,Silver,100,75,Mountain-500
+594,564.99,1,Silver,100,75,Mountain-500
+595,564.99,1,Silver,100,75,Mountain-500
+596,539.99,1,Black,100,75,Mountain-500
+597,539.99,1,Black,100,75,Mountain-500
+598,539.99,1,Black,100,75,Mountain-500
+599,539.99,1,Black,100,75,Mountain-500
+600,539.99,1,Black,100,75,Mountain-500
+604,539.99,2,Black,100,75,Road-750
+605,539.99,2,Black,100,75,Road-750
+606,539.99,2,Black,100,75,Road-750
